@@ -1,36 +1,36 @@
-# 👋 Hey, I'm Najat
+<div align="center">
+
+# Hey, I'm Najat
 
 ### `Software Engineering Student @ 1337`
 
-> **Building. Breaking. Learning. Rebuilding.**
-
-I'm a Software Engineering student at **1337 (42 Network)** who enjoys turning ideas into working software.
-
-I learn best by **building real projects**, solving problems, and understanding how things work under the hood.
+</div>
 
 ---
 
-## 🧭 What I'm Into
+## `$ whoami`
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🧩 Software Engineering        🌐 Web Development          │
-│                                                             │
-│   ⚡ Real-Time Applications       🐧 Linux & Systems         │
-│                                                             │
-│   🔌 APIs & Networking            🐳 Docker                  │
-│                                                             │
-│   🧠 Problem Solving              🔐 Security                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+```bash
+$ whoami
+
+najat@1337:~$ cat about.txt
+
+Software Engineering student at 1337 (42 Network).
+
+I learn by building real projects, solving problems,
+and understanding what happens under the hood.
+
+Currently exploring:
+-> Full-Stack Development
+-> Backend Architecture
+-> Real-Time Applications
+-> Networking & Systems
+-> DevOps
+-> Cybersecurity
 ```
-
-I'm particularly interested in building applications where **different pieces have to work together** — frontend, backend, APIs, databases, networking, and real-time communication.
-
 ---
 
-## 🚀 Things I've Built
+## `~/projects`
 
 ### 🎮 ft_transcendence
 
@@ -74,57 +74,46 @@ A multi-container infrastructure built with Docker, focusing on services, networ
 
 ---
 
-## 🌱 Currently Exploring
+## `~/toolbox`
 
-```text
-TypeScript
-     ↓
-Next.js
-     ↓
-Full-Stack Development
-     ↓
-Backend Architecture
-     ↓
-Cloud & DevOps
-```
+| Languages | Web | Infrastructure |
+|:---------: |:-----------------: |:------------: |
+| C C++ | React Node.js | Docker |
+| JavaScript | Express REST APIs | Linux |
+| TypeScript* | WebSockets | Git |
+| | Next.js* | PostgreSQL |
 
-I'm currently expanding beyond C/C++ and strengthening my skills in modern full-stack development.
+<sub>* Currently learning</sub>
 
 ---
 
-## ⚙️ My Approach
-
-I don't want to just learn **how to use a technology**.
-
-I want to understand:
-
-**How does it work?**
-**Why does it work this way?**
-**What happens underneath?**
-**How can I build it myself?**
-
-That's what I enjoy most about software engineering.
-
----
-
-## 📊 A Little About My Journey
+## `~/journey`
 
 ```text
 2020 ─────────────── 2024 ─────────────── 2026 ───────────→
 
- University              1337                  Building
- Management          Software Engineering      & Learning
-                        ↓
-                   Systems & C/C++
-                        ↓
+ University          1337                Building
+ Economics     Software Engineering         & 
+     &                 ↓                 Learning
+  Getion         Systems & C/C++
+                       ↓
                   Web & Full-Stack
 ```
 
+**Still learning. Still building.**
+
 ---
 
-## 🤝 Let's Connect
+## `~/connect`
 
-If you're interested in software engineering, open-source projects, or building things together:
+I'm always interested in connecting with developers, engineers,
+and people building interesting things.
+
+<br>
+
+**Let's build something worth talking about. **
+
+<br>
 
 **LinkedIn** → https://www.linkedin.com/in/najat-motie-a32a50270/
 
@@ -136,6 +125,12 @@ If you're interested in software engineering, open-source projects, or building 
 
 <div align="center">
 
-### `Keep learning. Keep building. 🚀`
+```text
+ 
+ $ git commit -m "keep learning" 
+
+```
+
+**(c) Najat Software Engineering @ 1337**
 
 </div>
